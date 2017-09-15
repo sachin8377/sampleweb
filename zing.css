@@ -1,0 +1,15 @@
+.ff
+{
+	display:-webkit-inline-box;;
+	margin-left: 100px;
+}
+#main
+{
+	float: left;
+	width: 100px;
+}
+img
+{
+ min-width: 300px;
+ min-height: 150px;	
+}
